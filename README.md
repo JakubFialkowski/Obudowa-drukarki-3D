@@ -7,4 +7,4 @@ Zamknięta obudowa dla drukarki 3D z funkcją utrzymywania zadanej temperatury.
 - wyświetlanie parametrów oraz konfiguracja ustawień za pomocą wyświetlacza LCD oraz 4 przycisków<br>
 - uchwyt szpuli filamentu pozwalający na pomiar wagi pozsotałego materiału
   
-  <b>Szczegółowy opis w pliku Projekt i wykonanie zamkniętej komory przeznaczonej do pracy drukarki 3d.pdf </b>
+  <b>Szczegółowy opis w pliku "Projekt i wykonanie zamkniętej komory przeznaczonej do pracy drukarki 3d.pdf" </b>
